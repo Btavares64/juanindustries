@@ -55,3 +55,26 @@ ol {
     font-size: 1.5em; 
     margin: 5px 0 0; 
 }
+
+.selection {
+    text-align: right;
+    font-family: 'Arial', sans-serif;  
+}
+
+.selection li {
+    text-align: right;
+    font-family: 'Arial', sans-serif;  
+}
+
+.selection a {
+    color: #000000; 
+    text-decoration: none; 
+    font-family: 'Arial', sans-serif; 
+    font-weight: bold; 
+    display: inline-block;
+    padding: 5px; 
+}
+
+.selection ul {
+    list-style-type: none;
+}
