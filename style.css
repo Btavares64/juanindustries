@@ -24,7 +24,7 @@ h3  {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 26px;
 }
-
+/*logo?*/
 img {
     width: 100px;
     height: auto;
@@ -33,10 +33,7 @@ img {
     margin-right: auto;
   }
 
-ol {
-    font-size: 35px;
-    font-family: Arial, Helvetica, sans-serif;
-}
+/*this is for the blue header that looks ugly*/
 .header-banner {
     background-color: rgb(189, 219, 255); 
     color: black;
@@ -55,7 +52,7 @@ ol {
     font-size: 1.5em; 
     margin: 5px 0 0; 
 }
-
+/*This is for the menu in the home page*/
 .selection {
     text-align: right;
     font-family: 'Arial', sans-serif;  
@@ -77,4 +74,16 @@ ol {
 
 .selection ul {
     list-style-type: none;
+}
+
+/*this is for the list of fav skaters*/
+.fav-skate li {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+}
+/*Descriptions*/
+desc p{
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
 }
