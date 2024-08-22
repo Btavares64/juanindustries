@@ -87,3 +87,14 @@ desc p{
     font-size: 14px;
     font-family: 'Arial', sans-serif;
 }
+
+/*Images on the about webpage*/
+.image-description {
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+.a-images img {
+    width: 250px;
+    height: auto;
+}
