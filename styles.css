@@ -9,8 +9,8 @@ p {
 }
 
 .title {
-    width: 100%; /* Ensures it takes full width */
-    text-align: center; /* Centers all inline text inside */
+    width: 100%; 
+    text-align: center; 
 }
 .title h1 {
     font-family: 'Times New Roman', Times, serif;
@@ -20,4 +20,10 @@ p {
 h3 {
     font-family: 'Times New Roman', Times, serif, sans-serif;
     font-size: 17px;
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+    width: 15%; 
 }
