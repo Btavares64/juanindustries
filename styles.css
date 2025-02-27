@@ -17,12 +17,7 @@ p {
     text-align: center;
 }
 
-.a-images img {
-    width: 250px; 
-    height: auto;
-}
-
-.image-description {
+h3 {
     font-family: 'Times New Roman', Times, serif, sans-serif;
-    font-size: 16px;  
+    font-size: 17px;
 }
